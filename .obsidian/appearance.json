@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "SauceCodePro Nerd Font",
+  "textFontFamily": "SauceCodePro Nerd Font,Sarabun",
+  "monospaceFontFamily": "SauceCodePro Nerd Font",
+  "baseFontSize": 16,
+  "showViewHeader": false,
+  "nativeMenus": false,
+  "theme": "obsidian"
+}

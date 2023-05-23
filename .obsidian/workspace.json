@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "b33616d90405a460",
+    "type": "split",
+    "children": [
+      {
+        "id": "2504f0dd84c03f04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65a1d220ce38ff4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Surgry/General Surgery/Intestinal Obstruction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d03eac0a01177f6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b644ba9aee4aacb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4752c5151f07288",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ddda755acf45ed9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40aa8c2c045a7533",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "618986152436593e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec89fab842db3ef9",
+        "type": "tabs",
+        "dimension": 30.79331941544885,
+        "children": [
+          {
+            "id": "ad131ca2f49fdbb8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Surgry/General Surgery/Intestinal Obstruction.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.21005094689276815,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "b41aac2b6b1b7349",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "8a7916c5b510880a",
+        "type": "tabs",
+        "dimension": 69.20668058455115,
+        "children": [
+          {
+            "id": "6b31f68e30a72acc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Surgry/General Surgery/Intestinal Obstruction.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "212ce8c9b81a9f97",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Surgry/General Surgery/Intestinal Obstruction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c584b66ba8d04834",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6140b1238b2903a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Surgry/General Surgery/Intestinal Obstruction.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "e4752c5151f07288",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-05-23 14.26.36.excalidraw.md",
+    "Surgry/General Surgery/Intestinal Obstruction.md",
+    "Excalidraw",
+    "Surgry/Surgery Entry Page.md",
+    "Surgry/General Surgery/Gut Obs Location.canvas",
+    "Surgry/General Surgery",
+    "Table of Content.md",
+    "Surgry"
+  ]
+}
