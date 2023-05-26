@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Surgry/General Surgery/Intestinal Obstruction.md",
+                "file": "Surgry/Surgery Entry Page.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Surgry/General Surgery/Intestinal Obstruction.md",
+                "file": "Surgry/Surgery Entry Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Surgry/General Surgery/Intestinal Obstruction.md",
+                "file": "Surgry/Surgery Entry Page.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Surgry/General Surgery/Intestinal Obstruction.md",
+                "file": "Surgry/Surgery Entry Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Surgry/General Surgery/Intestinal Obstruction.md"
+                "file": "Surgry/Surgery Entry Page.md"
               }
             }
           }
@@ -185,36 +185,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "65a1d220ce38ff4a",
   "lastOpenFiles": [
-    "Surgry/General Surgery/Stangulation.md",
-    "Surgry/General Surgery/Intestinal Obstruction.md",
+    "Surgry/General Surgery/Esophagus.md",
     "Surgry/Surgery Entry Page.md",
+    "Surgry/General Surgery/Intestinal Obstruction.md",
     "Surgry/General Surgery/_assert_/Pasted image 20230523224618.png",
-    "Surgry/General Surgery/_assert_/Pasted image 20230523224355.png",
     "Surgry/General Surgery/_assert_/Pasted image 20230523211456.png",
-    "Surgry/General Surgery/_assert_/Pasted image 20230523211429.png",
     "Surgry/General Surgery/_assert_/Pasted image 20230523210339.png",
     "Surgry/General Surgery/_assert_/Pasted image 20230523210313.png",
-    "Surgry/General Surgery/_assert_/Pasted image 20230523210255.png",
     "Surgry/General Surgery/_assert_",
-    "Pasted image 20230523204918.png",
-    "Pasted image 20230523204518.png",
-    "Pasted image 20230523204501.png",
+    "Surgry/General Surgery/Stangulation.md",
     "Excalidraw/Drawing 2023-05-23 14.26.36.excalidraw.md",
     "Excalidraw",
     "Surgry/General Surgery/Gut Obs Location.canvas",
