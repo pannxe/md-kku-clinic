@@ -1,3 +1,4 @@
 {
-  "attachmentFolderPath": "./_assert_"
+  "attachmentFolderPath": "./_assert_",
+  "alwaysUpdateLinks": true
 }

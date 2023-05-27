@@ -1,7 +1,7 @@
 # Summary from SAMO Surgery
 ## General Surgery
 - [[Intestinal Obstruction]]
-- [[GI Bleed]]
+- [[Gastrointestinal Bleeding]]
 - [[Abdominal Pain]]
 - [[Peritonitis]]
 - [[Abdominal Mass]]

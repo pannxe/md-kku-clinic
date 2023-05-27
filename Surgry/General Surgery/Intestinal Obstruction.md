@@ -21,6 +21,7 @@ Look for 4 cardinal signs
 
 ## 2. Location
 ### Physical Examination
+
 | Key                |   Prox. SI   | Dist. SI  |     LI      |       Note       |
 | ------------------ |:------------:|:---------:|:-----------:|:----------------:|
 | Location of Pain   |  Epigastric  | Umbilicus | Suprapubic  |        Typical refer site          |
