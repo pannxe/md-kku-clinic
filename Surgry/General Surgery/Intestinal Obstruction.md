@@ -11,15 +11,16 @@
 > - Dynamic → ↑↑ peristalsis → **colicky pain** & **↑ bowel sound**
 > - Adynamic → no peristalsis → **const. dull pain** & **Ø bowel sound**; vomit more like overflow
 
+---
 # Approach
-## 1. Confirmation
+## 1. Really Intestinal Obstruction?
 Look for 4 cardinal signs
 - **Colicky pain** (dynamic) or **const. dull pain** (adynamic)
 - **Vomiting** 
 - **Abdominal distention**
 - **Obs-/constipation**
 
-## 2. Location
+## 2. Where in GI tract?
 ### Physical Examination
 
 | Key                |   Prox. SI   | Dist. SI  |     LI      |       Note       |
@@ -45,7 +46,7 @@ Also
 > [!tip]
 > Adynamic obs. film similar to partial obs.: air in dist. colon & rectum, etc.
 
-## 3. Cause
+## 3. Cause?
 ### Mechanical Obstruction
 - Extraluminal
 	- **Adhesion band** -- M/C. assoc. Sx; ⊢ early ambulation
@@ -73,10 +74,11 @@ Also
 - Partial → fart & air in distal lumen (x-ray)
 - Complete → no fart nor air
 
-## 5. Complication
+## 5. Any complication yet?
 - [[Stangulation]]
 - [[Intestinal Perforation]]
 
+---
 # Treatment
 - **Bowel compromise** (e.g., ischemia) → **emergency Sx**
 - **Complete small bowel obs.** and **large bowel** → ↓↓ conservative success rate → **elective Sx**

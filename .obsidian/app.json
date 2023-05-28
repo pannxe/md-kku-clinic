@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "./_assert_",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "livePreview": true
 }

@@ -8,57 +8,98 @@ Cut off at **ligament of Treitz**
 
 ico cannot determine site of bleed → **obscure GI bleed**
 
+---
 # Approach
+## 1. Really GI Bleed?
+- Not GI origin → epitaxis
+- No bleed → color from food or medication
 
-```mermaid
+## 2. Where in GI tract?
+- Variceal UGIB → **hematemesis**, **painful**, U/D liver disease
+- Non-variceal UGIB → **coffee-ground vomit**, **painless**, **melena** (hematochezia if massive), U/D PUD, NSAIDs use
+- LGIB → **hematochezia** (melena if slow)
+
+## 3. Differential Diagnosis
+- Variceal UGIB → 
+	- **[[Esophageal Varies]]**
+	- [[Gastric Varies]]
+- Non-variceal UGIB →
+	- [[Gastritis]]
+	- [[Peptic Ulcer]]
+	- [[Esophagitis]]
+	- [[Mallory-Weiss Syndrome]]
+	- [[Boerhaave Syndrome]]
+	- Neoplasms
+		- [[Esophageal CA]]
+		- [[Gastric CA]]
+	- [[Dieulafoy Lesion]]
+	- Vascular Ectasia
+	- Aorto-enteric Fistula
+- LGIB →
+	- [[Divertucular Bleeding]]
+	- [[Meckel Diverticulum]]
+	- Vascular Lesion
+	- Neoplasms
+		- [[Small Bowel Tumors]]
+		- [[Colorectal CA]]
+		- [[Colorectal Polyps]]
+		- [[Colitis]]
+		- [[IBD]]
+	- Anorectal Lesion
+		- [[Hemorrhoid]]
+		- [[Anal Fissure]]
+
 ---
-title: GI Bleed Approach
+# Investigation
+## PEs
+- GA, V/S
+- Sign of shock and hypovolemia
+- Abdominal
+- DRE
+- SSx of bleeding diathesis and anemia
+- SSx of chronic liver disease
+
+## Initial/routine Labs
+- CBC  
+- Coagulogram  
+- BUN/Cr  
+- Glucose level  
+- E'lyte  
+- OCBT  
+- Blood typing & cross match
+
+## For Diagnosis
+- **NG tube for gastric lavage** → R/O UGIB
+	- Bile + blood → UGIB
+	- Bile s blood → R/O UGIB
+	- s bile s blood → cannot R/O anything
+- **DRE + proctoscope** → R/O anorectal bleed
+- UGIB → **[[EGD]]**; Both for Dx and Tx
+- LGIB →
+	- No active bleed → **Colonoscopy**
+	- Active bleed, unstable, C/I colono → exploratory laparoscopy c intra-op endoscope
+
+
+> [!important]
+> See [[EGD]] for scoring and finding
+
 ---
+# Management
+## Initial
+- Resuscitation prn
+- NPO
+- Foley for I/O record → keep urine >0.5 mL/kg/hr  
+- NG irrigation (also R/O UGIB)
 
-flowchart TB
+## Medication
+- Variceal UGIB
+	- **Octreotide 50 mcg IV → 50 mcg/hr for 5 d.** (x5 dose ico Somatostatin)
+	- ico cirrhosis →
+		- ABT prophylaxis → **Norfloxacin (400) 1x2 for 7 d** 
+		- **Propanolol** → ↓ portal pressure
+	- Monitor for rebleed **5 d**
+- Non-variceal UGIB
+	- **Controloc 80 mg IV stat → 80 mg + NSS 100 mL IV drip 8 mg/hr for 3 d**
+	- Monitor for rebleed **3 d** → test for H. pylori → Tx
 
-	1("1. Really GI bleed?")
-	1b("
-	Epitaxis
-	Food or drug color
-	Systemic Bleed")
-	2("2. Lower or Upper GI?")
-	2a["Upper GI Bleeding"]
-	2b["Lower GI Bleeding"]
-	2aa["Varicial Bleeding"]
-	2ab["Non-varicial GI Bleeding"]
-	ddx["3. DDx"]
-	
-	1 -- "GI Bleed" --> 2
-	1 -- "
-		Non-bleed
-		Non-GI
-	" --> 1b
-	2 -- " 
-		Hematemesis
-		Coffee-ground vomiting
-		Melena
-	" --> 2a
-	
-	2 -- "
-		Hematochezia
-		Melena (if slow)
-	" ---> 2b
-	2a -- "
-		Painless
-		Hematemesis
-		Hemodynamic unstable
-		U/D liver disease
-	" --> 2aa
-	2a -- "
-		Painful
-		Coffee-ground vomiting
-		Melena
-		U/D PUD, NSAIDs use
-	" --> 2ab
-	2b & 2aa & 2ab --> ddx
-
-linkStyle default text-align: left, stroke:-width:2px;
-```
-
-# Differential Diagnosis
+→ send for diagnostic test
