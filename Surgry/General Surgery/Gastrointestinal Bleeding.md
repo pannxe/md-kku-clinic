@@ -44,7 +44,7 @@ ico cannot determine site of bleed → **obscure GI bleed**
 		- [[Colorectal CA]]
 		- [[Colorectal Polyps]]
 		- [[Colitis]]
-		- [[IBD]]
+		- [[Inflammatory Bowel Diseases]]
 	- Anorectal Lesion
 		- [[Hemorrhoid]]
 		- [[Anal Fissure]]

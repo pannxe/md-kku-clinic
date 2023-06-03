@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad96a25b5ae8cc42",
+            "id": "d279ed3e7c7d3de9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gastric Outlet Obstruction.md",
+                "file": "Surgry/General Surgery/Gastric Outlet Obstruction.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0b93307185c647f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Surgry/General Surgery/Gastric Outlet Obstruction.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Gastric Outlet Obstruction.md",
+                "file": "Surgry/General Surgery/Gastric Outlet Obstruction.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -137,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gastric Outlet Obstruction.md",
+                "file": "Surgry/General Surgery/Gastric Outlet Obstruction.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -154,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gastric Outlet Obstruction.md",
+                "file": "Surgry/General Surgery/Gastric Outlet Obstruction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gastric Outlet Obstruction.md"
+                "file": "Surgry/General Surgery/Gastric Outlet Obstruction.md"
               }
             }
           }
@@ -199,33 +213,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad96a25b5ae8cc42",
+  "active": "b0b93307185c647f",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Gastric Outlet Obstruction.md",
+    "Inflammatory Bowel Diseases.md",
+    "Surgry/General Surgery/Gastric Outlet Obstruction.md",
     "Surgry/General Surgery/Stomach.md",
     "Surgry/Surgery Entry Page.md",
-    "Surgry/General Surgery/Perforated PU.md",
-    "Pneumoperitoneum.md",
-    "_assert_/Pasted image 20230603161736.png",
-    "_assert_/Pasted image 20230603161601.png",
-    "_assert_/Pasted image 20230603161503.png",
-    "_assert_/Pasted image 20230603161437.png",
-    "_assert_",
-    "Peritonitis.md",
     "Table of Content.md",
-    "Surgry/Small Intestine.md",
+    "Surgry/General Surgery/Small Intestine.md",
+    "Surgry/General Surgery/Pneumoperitoneum.md",
+    "Surgry/General Surgery/Perforated PU.md",
+    "Surgry/General Surgery/Ménétrier Disease.md",
+    "Surgry/General Surgery/Intestinal Obstruction.md",
+    "Surgry/General Surgery/Gastritis.md",
+    "Surgry/General Surgery/Esophageal Varies.md",
+    "Untitled.md",
+    "_assets_/Pasted image 20230603161736.png",
+    "_assets_/Pasted image 20230603161601.png",
+    "_assets_/Pasted image 20230603161503.png",
+    "_assets_/Pasted image 20230603161437.png",
+    "_assets_",
+    "Surgry/General Surgery/Peritonitis.md",
     "Surgry/General Surgery/Boerhaave Syndrome.md",
     "Surgry/General Surgery/Peptic Ulcer.md",
     "Bacteria/H. pylori.md",
     "Bacteria",
     "Surgry/General Surgery/_assert_/Pasted image 20230603122650.png",
-    "Surgry/General Surgery/Gastritis.md",
-    "Surgry/General Surgery/Ménétrier Disease.md",
     "Surgry/General Surgery/Esophagus.md",
     "Surgry/General Surgery/Esophageal CA.md",
     "Surgry/General Surgery/Gastrointestinal Bleeding.md",
-    "Surgry/General Surgery/Intestinal Obstruction.md",
     "Surgry/General Surgery/Stangulation.md",
     "Surgry/General Surgery/Esophageal Perforation.md",
     "Surgry/General Surgery/EGD.md",
@@ -237,9 +253,7 @@
     "Surgry/General Surgery/Achalacia.md",
     "Surgry/General Surgery/_assert_/Pasted image 20230528165814.png",
     "Surgry/General Surgery/_assert_/Pasted image 20230528165313.png",
-    "Surgry/General Surgery/Dysphagia.md",
     "Surgry/General Surgery/Esophagus",
-    "Draft/__Gastrointestinal Bleeding.md",
     "Untitled.table",
     "Draft",
     "Surgry/General Surgery/_assert_",
