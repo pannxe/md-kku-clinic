@@ -1,1 +1,19 @@
-{}
+{
+  "highlightr-plugin:highlighter-plugin-menu": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ],
+  "highlightr-plugin:unhighlight": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": " "
+    }
+  ]
+}

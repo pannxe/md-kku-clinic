@@ -9,6 +9,8 @@
   "nativeMenus": false,
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "mermaid-rescale"
+    "mermaid-rescale",
+    "colorful-bold",
+    "colorful-highlight"
   ]
 }

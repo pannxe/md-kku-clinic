@@ -2,7 +2,7 @@
 .NLT__button {
   display: flex;
   align-items: center;
-  padding: 4px 6px;
+  padding: 4px 6px !important;
   white-space: nowrap;
   color: var(--text-normal);
   margin-right: 0;
@@ -33,11 +33,6 @@
 }
 .NLT__button--simple:hover {
   box-shadow: none !important;
-}
-
-/* src/react/table-app/row-options/styles.css */
-.NLT__row-options {
-  padding-left: var(--nlt-spacing--md);
 }
 
 /* src/react/shared/text/styles.css */
@@ -85,7 +80,7 @@
 
 /* src/react/table-app/option-bar/filter/styles.css */
 .react-select {
-  max-width: 250px !important;
+  width: 150px !important;
 }
 .react-select input:focus {
   border: 0 !important;
@@ -96,33 +91,13 @@
   box-shadow: none !important;
 }
 
-/* src/react/table-app/option-bar/styles.css */
-.NLT__option-bar {
-  width: 100%;
-  padding: var(--nlt-spacing--md) var(--nlt-spacing--lg);
-  border-top: 1px solid var(--background-modifier-border);
-  border-bottom: 1px solid var(--background-modifier-border);
-}
-
 /* src/react/table-app/function-cell/styles.css */
 .NLT__function-cell {
-  padding: var(--nlt-cell-spacing-x) var(--nlt-cell-spacing-y);
   display: flex;
   justify-content: flex-end;
   cursor: pointer;
   overflow: hidden;
-}
-
-/* src/react/table-app/text-cell/styles.css */
-.NLT__text-cell {
-  width: 100%;
-}
-.NLT__text-cell p {
-  margin: 0;
-}
-.NLT__text-cell ul {
-  padding: 0 var(--nlt-spacing--lg);
-  margin: 0;
+  padding: var(--nlt-cell-spacing-x) var(--nlt-cell-spacing-y);
 }
 
 /* src/react/shared/tag/styles.css */
@@ -213,16 +188,6 @@
   flex-direction: column;
 }
 
-/* src/react/table-app/body-cell/styles.css */
-.NLT__td-container {
-  display: flex;
-  width: 100%;
-  min-height: var(--nlt-cell-min-height);
-  height: 100%;
-  padding: var(--nlt-cell-spacing-x) var(--nlt-cell-spacing-y);
-  cursor: pointer;
-}
-
 /* src/react/table-app/currency-cell/styles.css */
 .NLT__currency-cell {
   width: 100%;
@@ -236,6 +201,16 @@
   height: 100%;
   border: 0;
   font-size: var(--font-ui-medium) !important;
+}
+
+/* src/react/table-app/body-cell/styles.css */
+.NLT__body-td-container {
+  display: flex;
+  width: 100%;
+  min-height: var(--nlt-cell-min-height);
+  height: 100%;
+  padding: var(--nlt-cell-spacing-x) var(--nlt-cell-spacing-y);
+  cursor: pointer;
 }
 
 /* src/react/table-app/new-row-button/styles.css */
@@ -253,24 +228,6 @@
   color: var(--text-normal);
 }
 
-/* src/react/table-app/header-cell/styles.css */
-.NLT__th-container {
-  display: flex;
-  justify-content: space-between;
-  width: 100%;
-  min-height: var(--nlt-cell-min-height);
-}
-.NLT__th-content {
-  display: flex;
-  align-items: center;
-  width: 100%;
-  overflow: hidden;
-  white-space: nowrap;
-  text-overflow: ellipsis;
-  user-select: none;
-  padding: var(--nlt-cell-spacing-x) var(--nlt-cell-spacing-y);
-}
-
 /* src/react/table-app/styles.css */
 :root {
   --nlt-spacing--xs: 2px;
@@ -279,6 +236,8 @@
   --nlt-spacing--lg: 12px;
   --nlt-spacing--xl: 16px;
   --nlt-spacing--2xl: 24px;
+  --nlt-spacing--3xl: 36px;
+  --nlt-spacing--4xl: 48px;
   --nlt-cell-spacing-x: var(--nlt-spacing--sm);
   --nlt-cell-spacing-y: var(--nlt-spacing--lg);
   --nlt-cell-min-height: 1.9rem;
@@ -356,21 +315,6 @@
 .NLT__selected {
   background-color: var(--color-base-20);
 }
-.NLT__wrap-overflow {
-  overflow-wrap: break-word;
-  overflow: hidden;
-}
-.NLT__hide-overflow {
-  overflow: hidden;
-  overflow-wrap: normal;
-  white-space: nowrap;
-}
-.NLT__hide-overflow-ellipsis {
-  overflow: hidden;
-  overflow-wrap: normal;
-  white-space: nowrap;
-  text-overflow: ellipsis;
-}
 .workspace-leaf-content[data-type=notion-like-tables] .view-content {
   padding: 0;
 }
@@ -394,20 +338,9 @@
 .NLT__button:not(.NLT__button--icon):focus-visible {
   outline-offset: 0;
 }
-
-/* src/react/import-app/styles.css */
-.NLT__import-app {
-  margin-top: 20px;
+.NLT__tr--drag-over {
+  border-bottom: 1px solid var(--color-accent) !important;
 }
-.NLT__import-app .error-text {
-  font-size: 12px;
-  color: var(--text-error);
-  visibility: hidden;
-}
-.NLT__import-app .error-text--visible {
-  visibility: visible;
-}
-.NLT__import-app label {
-  font-size: 0.8rem;
-  font-weight: 600;
+.NLT__th--drag-over {
+  border-bottom: 1px solid var(--color-accent) !important;
 }

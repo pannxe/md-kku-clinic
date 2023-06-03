@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "./_assert_",
   "alwaysUpdateLinks": true,
-  "livePreview": true
+  "livePreview": true,
+  "tabSize": 4
 }

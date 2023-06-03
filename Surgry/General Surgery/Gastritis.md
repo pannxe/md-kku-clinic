@@ -1,0 +1,11 @@
+**Inflammation of mucosal layer of [[Stomach]]**
+- **Type A** → **Autoimmune** attacking parietal cell →
+	- Hypochlohydria & hypergastrinemia
+	- ↓↓ intrinsic factor → ↓↓ B12 absorption → **[[Pernicious Anemia]]** 
+- **Type B** → ***H. pylori*** → intestinal metaplasia → **[[Gastric CA]]**
+- **Reflux** ← enterogastric reflux ← **gastric surgery** 
+- **Erosive** ← NSAIDs, alcohols
+- **Stress** ← severe stress
+	- e.g., **trauma**, **surgery**, ICU
+	- ⊢ PPI or **H2 antagonists** ± sucralfate (prophylaxis in icu pt.)
+- [[Ménétrier Disease]] (rare)

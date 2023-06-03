@@ -15,7 +15,7 @@
 # Management
 - **CCBs**, Nitrates, Botox → **↓ muscle tone**
 - **[[EGD]]** c **pneumatic balloon dilation** ![[Pasted image 20230528165158.png]]
-- Laparoscopic for **modified Heller myotomy** + partial fundoplication ![[Pasted image 20230528165313.png]]
+- **Laparoscopic** for **modified Heller myotomy** + partial fundoplication ![[Pasted image 20230528165313.png]]
 
 > Fundoplication → replication of LES
 > ![[Pasted image 20230528165814.png]]

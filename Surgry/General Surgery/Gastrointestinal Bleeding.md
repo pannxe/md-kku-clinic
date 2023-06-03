@@ -92,13 +92,13 @@ ico cannot determine site of bleed → **obscure GI bleed**
 - NG irrigation (also R/O UGIB)
 
 ## Medication
-- Variceal UGIB
+- **Variceal UGIB**
 	- **Octreotide 50 mcg IV → 50 mcg/hr for 5 d.** (x5 dose ico Somatostatin)
 	- ico cirrhosis →
 		- ABT prophylaxis → **Norfloxacin (400) 1x2 for 7 d** 
 		- **Propanolol** → ↓ portal pressure
 	- Monitor for rebleed **5 d**
-- Non-variceal UGIB
+- **Non-variceal UGIB**
 	- **Controloc 80 mg IV stat → 80 mg + NSS 100 mL IV drip 8 mg/hr for 3 d**
 	- Monitor for rebleed **3 d** → test for H. pylori → Tx
 

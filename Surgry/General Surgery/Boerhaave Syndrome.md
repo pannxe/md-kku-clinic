@@ -1,0 +1,1 @@
+**↑↑↑ barotauma** in **[[Esophagus]]** (e.g., vomit against closed glottis) → usually [[Esophageal Perforation]] in lower 1/3  

@@ -1,0 +1,18 @@
+{
+  "highlighterStyle": "rounded",
+  "highlighterMethods": "css-classes",
+  "highlighters": {
+    "Purple": "#bd93f9ac",
+    "Pink": "#ff79c6ac",
+    "Comment": "#6272a4ac",
+    "Orange": "#ffb86cac",
+    "Yellow": "#f1fa8cac"
+  },
+  "highlighterOrder": [
+    "Purple",
+    "Pink",
+    "Yellow",
+    "Orange",
+    "Comment"
+  ]
+}

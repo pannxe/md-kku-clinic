@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Surgry/General Surgery/Achalacia.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "feebe65f4669219b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Surgry/General Surgery/Intestinal Obstruction.md",
+                "file": "Gastric Outlet Obstruction.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Surgry/General Surgery/Achalacia.md",
+                "file": "Gastric Outlet Obstruction.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -123,7 +110,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.20799961629872002,
+                  "scale": 0.14538354519702273,
                   "close": true
                 }
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Surgry/General Surgery/Achalacia.md",
+                "file": "Gastric Outlet Obstruction.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Surgry/General Surgery/Achalacia.md",
+                "file": "Gastric Outlet Obstruction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Surgry/General Surgery/Achalacia.md"
+                "file": "Gastric Outlet Obstruction.md"
               }
             }
           }
@@ -214,35 +201,48 @@
   },
   "active": "ad96a25b5ae8cc42",
   "lastOpenFiles": [
+    "Surgry/General Surgery/Stomach.md",
+    "Gastric Outlet Obstruction.md",
+    "Surgry/Surgery Entry Page.md",
+    "Surgry/General Surgery/Perforated PU.md",
+    "Pneumoperitoneum.md",
+    "_assert_/Pasted image 20230603161736.png",
+    "_assert_/Pasted image 20230603161601.png",
+    "_assert_/Pasted image 20230603161503.png",
+    "_assert_/Pasted image 20230603161437.png",
+    "_assert_",
+    "Peritonitis.md",
+    "Table of Content.md",
+    "Surgry/Small Intestine.md",
+    "Surgry/General Surgery/Boerhaave Syndrome.md",
+    "Surgry/General Surgery/Peptic Ulcer.md",
+    "Bacteria/H. pylori.md",
+    "Bacteria",
+    "Surgry/General Surgery/_assert_/Pasted image 20230603122650.png",
+    "Surgry/General Surgery/Gastritis.md",
+    "Surgry/General Surgery/Ménétrier Disease.md",
+    "Surgry/General Surgery/Esophagus.md",
+    "Surgry/General Surgery/Esophageal CA.md",
+    "Surgry/General Surgery/Gastrointestinal Bleeding.md",
+    "Surgry/General Surgery/Intestinal Obstruction.md",
+    "Surgry/General Surgery/Stangulation.md",
+    "Surgry/General Surgery/Esophageal Perforation.md",
+    "Surgry/General Surgery/EGD.md",
+    "Surgry/General Surgery/Mallory-Weiss Syndrome.md",
+    "Surgry/General Surgery/_assert_/Pasted image 20230528202312.png",
+    "Surgry/General Surgery/_assert_/Pasted image 20230528202309.png",
+    "Surgry/General Surgery/_assert_/Pasted image 20230528202233.png",
+    "Surgry/General Surgery/Esophageal Stricture.md",
+    "Surgry/General Surgery/Achalacia.md",
     "Surgry/General Surgery/_assert_/Pasted image 20230528165814.png",
     "Surgry/General Surgery/_assert_/Pasted image 20230528165313.png",
-    "Surgry/General Surgery/_assert_/Pasted image 20230528165158.png",
-    "Surgry/General Surgery/_assert_/Pasted image 20230528164809.png",
-    "Surgry/General Surgery/_assert_/Pasted image 20230528164621.png",
-    "Surgry/General Surgery/_assert_/Pasted image 20230528164424.png",
-    "EGD.md",
-    "Surgry/General Surgery/Achalacia.md",
-    "Dysphagia.md",
-    "Surgry/General Surgery/Esophagus.md",
+    "Surgry/General Surgery/Dysphagia.md",
     "Surgry/General Surgery/Esophagus",
-    "Surgry/General Surgery/Gastrointestinal Bleeding.md",
     "Draft/__Gastrointestinal Bleeding.md",
-    "Surgry/General Surgery/Intestinal Obstruction.md",
-    "Surgry/Surgery Entry Page.md",
-    "Surgry/General Surgery/Stangulation.md",
     "Surgry/General Surgery/Esophageal Varies.md",
     "Untitled.table",
     "Draft",
-    "Surgry/General Surgery/Esophagial Varies.md",
-    "Esophagial Varies|Varicial Bleeding.md",
-    "Surgry/General Surgery/_assert_/Pasted image 20230527093509.png",
-    "Surgry/General Surgery/_assert_/Pasted image 20230527093444.png",
-    "Table of Content.md",
-    "Surgry/General Surgery/_assert_/Pasted image 20230523224618.png",
-    "Surgry/General Surgery/_assert_/Pasted image 20230523211456.png",
-    "Surgry/General Surgery/_assert_/Pasted image 20230523210339.png",
     "Surgry/General Surgery/_assert_",
-    "Excalidraw/Drawing 2023-05-23 14.26.36.excalidraw.md",
     "Excalidraw",
     "Surgry/General Surgery/Gut Obs Location.canvas",
     "Surgry/General Surgery",
